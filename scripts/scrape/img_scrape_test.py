@@ -6,7 +6,6 @@
         # Local sample
         # storage options - Google, Dropbox, zip, DB setup?
 
-
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
